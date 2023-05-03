@@ -67,7 +67,7 @@ export default function Weather(props) {
               <footer>
                 This project was coded by Muriel Cishek and is
                 <a
-                  href="https://github.com/Murielcibra/react-tempo-app"
+                  href="https://github.com/Murielcibra/Tempo-Weather-React"
                   target="_blank"
                   rel="noreferrer"
                 >
